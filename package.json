@@ -1,0 +1,13 @@
+{
+  "name": "php-developer-extension-pack",
+  "displayName": "php-developer-extension-pack",
+  "description": "VS Code Extensions for PHP Developer",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": []
+}
